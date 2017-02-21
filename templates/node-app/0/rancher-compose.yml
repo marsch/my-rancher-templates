@@ -1,0 +1,7 @@
+.catalog:
+  name: "nodejs"
+  version: "0.0.1"
+  description: # Description of the versioned template of the Catalog Entry
+  uuid: nodejs-0
+  minimum_rancher_version: v0.9.0
+  questions: #Used to request user input for configuration options

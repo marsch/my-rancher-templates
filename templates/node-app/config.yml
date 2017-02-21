@@ -1,0 +1,5 @@
+name: nodejs
+description: |
+  ubuntu with nvm
+version: 0.0.1
+category: node
